@@ -1,0 +1,77 @@
+[
+  {
+    "question": "1kg=______lbs   ?",
+    "option": [3, 1.8, 2, 2.2],
+    "answer": 2.2,
+    "number": 1
+  },
+  {
+    "question": "What is the meaning of OOPs   ?",
+    "option": [
+      "Object oriented file",
+      "Omega oriented Programming",
+      "Object Omega Programming",
+      "Object Oriented Programming"
+    ],
+    "answer": "Object Oriented Programming",
+    "number": 2
+  },
+  {
+    "question": "Fill the article in sentence “I reads in __ MBA   ?",
+    "option": ["A", "The", "None of the Above ", "An"],
+    "answer": "An",
+    "number": 3
+  },
+  {
+    "question": "What is the meaning of OOPs   ?",
+    "option": [
+      "Object oriented file",
+      "Omega oriented Programming",
+      "Object Omega Programming",
+      "Object Oriented Programming"
+    ],
+    "answer": "Object Oriented Programming",
+    "number": 4
+  },
+  {
+    "question": "Fill the article in sentence “I reads in __ MBA   ?",
+    "option": ["A", "The", "None of the Above ", "An"],
+    "answer": "An",
+    "number": 5
+  },
+  {
+    "question": "1kg=______lbs   ?",
+    "option": [3, 1.8, 2, 2.2],
+    "answer": 2.2,
+    "number": 6
+  },
+  {
+    "question": "What is the meaning of OOPs   ?",
+    "option": [
+      "Object oriented file",
+      "Omega oriented Programming",
+      "Object Omega Programming",
+      "Object Oriented Programming"
+    ],
+    "answer": "Object Oriented Programming",
+    "number": 7
+  },
+  {
+    "question": "Fill the article in sentence “I reads in __ MBA   ?",
+    "option": ["A", "The", "None of the Above ", "An"],
+    "answer": "An",
+    "number": 8
+  },
+  {
+    "question": "1kg=______lbs   ?",
+    "option": [3, 1.8, 2, 2.2],
+    "answer": 2.2,
+    "number": 9
+  },
+  {
+    "question": "Fill the article in sentence “I reads in __ MBA   ?",
+    "option": ["A", "The", "None of the Above ", "An"],
+    "answer": "An",
+    "number": 10
+  }
+]

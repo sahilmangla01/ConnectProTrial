@@ -1,0 +1,38 @@
+[
+  {
+    "id": "job_1",
+    "job_title": "UI Designer",
+    "type": "Remote",
+    "image": "https://welba.s3.eu-west-2.amazonaws.com/c-286-logo.png",
+    "place": "US",
+    "description": "Plans and illustrates concepts by designing rough layouts of art and copy regarding arrangement, size, type size and style, and related aesthetics.",
+    "skills": ["html", "css", "Adobe Xd"]
+  },
+  {
+    "id": "job_2",
+    "job_title": "Graphics Designer",
+    "type": "onSite",
+    "image": "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1415386231/utypaslbyxwfuwhfdzxd.png",
+    "place": "India",
+    "description": "Plans and illustrates concepts by designing rough layouts of art and copy regarding arrangement, size, type size and style, and related aesthetics.",
+    "skills": ["html", "css", "Figma", "video editing"]
+  },
+  {
+    "id": "job_3",
+    "job_title": "React Js",
+    "type": "Remote",
+    "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202106/tcs_logo_1200_020621101143.jpg?size=1200:675",
+    "place": "Uk",
+    "description": "React.js, a comprehensive JavaScript library for building user interfaces, has changed the way we think about front-end development",
+    "skills": ["javascipt", "react js", "redux"]
+  },
+  {
+    "id": "job_4",
+    "job_title": "Spring Boot",
+    "type": "Remote",
+    "image": "https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/05/05/Photos/Processed/wiprologo-kXmF--621x414@LiveMint.jpg",
+    "place": "India",
+    "description": "Our organisation is seeking a Spring Boot Developer that understands how to build and deploy enterprise-level microservices with the Spring Boot platform.",
+    "skills": ["java", "spring boot", "django"]
+  }
+]
